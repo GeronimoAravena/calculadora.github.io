@@ -10,6 +10,17 @@ background-color: aqua;
     background-color: black;
 }
 
+#appBg .orange {
+    background-color: orange !important;
+    color: white;
+}
+
+#appBg .gray {
+    background-color: gray !important;
+    color: white !important;
+}
+
+
 #appBg input[type=textfield]  {
     width: 94%;
     height: 25%;
@@ -25,7 +36,7 @@ background-color: aqua;
 }
 
 #appBg input[type=button], #appBg input[type=reset]{
-    width: 22%;
+    width: 21%;
     cursor: pointer;
     font-family: 'Roboto';
     font-weight: bold;
